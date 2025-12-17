@@ -31,6 +31,6 @@ Esto permite:
 
   
 # 📂 Resultado
-Archivo `Historical_NAVs_IE00BYX5NX33.xlsx` con histórico ordenado y actualizado automáticamente.
+Archivo IE00BYX5NX33.xlsx con histórico ordenado y actualizado automáticamente.
 
 
