@@ -9,7 +9,7 @@ Script en Python que extrae automáticamente el NAV (valor liquidativo) y la fec
   * Fecha → DD/MM/YYYY
   * Precio → coma decimal YY,YYYY
 * Inserta el nuevo dato en la primera fila* del Excel.
-* Evita duplicados por fecha.
+* Evita duplicados por fecha. 
 * Ideal para seguimiento histórico diario.
 
 # ⏱️ Automatización diaria
